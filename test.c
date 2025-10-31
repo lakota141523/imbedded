@@ -2,6 +2,6 @@
 
 int main() {
 	printf ("hello");
-	printf ("김진하fsdf");
+	printf ("김진하");
 	
 }
